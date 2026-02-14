@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "夕暮れ feat. YOSH from 軍鶏",
+  "base_artist": "LGYankees",
+  "createdAt": "2026-02-14T15:14:37.682121Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "夕暮れ",
+      "artist": "Lamp",
+      "has_synced": true,
+      "path": "select/01_夕暮れ_Lamp.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "夕暮れ",
+      "artist": "Lamp",
+      "has_synced": true,
+      "path": "select/02_夕暮れ_Lamp.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "夕暮れ",
+      "artist": "The Rolling Girls",
+      "has_synced": true,
+      "path": "select/03_夕暮れ_The_Rolling_Girls.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "夕暮れ",
+      "artist": "JUDY AND MARY",
+      "has_synced": true,
+      "path": "select/04_夕暮れ_JUDY_AND_MARY.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "夕暮れ",
+      "artist": "THE BLUE HEARTS",
+      "has_synced": true,
+      "path": "select/05_夕暮れ_THE_BLUE_HEARTS.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "夕暮れ",
+      "artist": "THE BLUE HEARTS",
+      "has_synced": false,
+      "path": "select/06_夕暮れ_THE_BLUE_HEARTS.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "夕暮れ [Dusk or Twilight]",
+      "artist": "Lamp",
+      "has_synced": true,
+      "path": "select/07_夕暮れ_[Dusk_or_Twilight]_Lamp.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "夕暮れ、溶ける",
+      "artist": "SCANDAL",
+      "has_synced": true,
+      "path": "select/08_夕暮れ、溶ける_SCANDAL.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "夕暮れ(カバー)",
+      "artist": "THE ROLLING GIRLS",
+      "has_synced": true,
+      "path": "select/09_夕暮れ(カバー)_THE_ROLLING_GIRLS.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "夕暮れ、溶ける - Yuugure,Tokeru",
+      "artist": "SCANDAL",
+      "has_synced": true,
+      "path": "select/10_夕暮れ、溶ける_-_Yuugure,Tokeru_SCANDAL.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "夕暮れ (Karaoke)",
+      "artist": "The Rolling Girls",
+      "has_synced": true,
+      "path": "select/11_夕暮れ_(Karaoke)_The_Rolling_Girls.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "夕暮れ (Rearrange)",
+      "artist": "THE BACK HORN",
+      "has_synced": false,
+      "path": "select/12_夕暮れ_(Rearrange)_THE_BACK_HORN.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "夕暮れ",
+      "artist": "LGYankees Feat. YOSH",
+      "has_synced": false,
+      "path": "select/pl_01_夕暮れ_LGYankees_Feat._YOSH.txt"
+    }
+  ]
+}
